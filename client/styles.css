@@ -17,7 +17,7 @@ body {
   border: none;
   cursor: pointer;
   border-radius: 10px;
-  margin: 0 10px;
+  margin: 10px 10px;
   user-select: none;
 }
 
@@ -35,6 +35,14 @@ body {
 
 .btn-secondary:hover {
   background-color: #5a6268;
+}
+.btn-ternary {
+  background-color: #f3c50c;
+  color: black;
+}
+
+.btn-ternary:hover {
+  background-color: #f3c50cc3;
 }
 
 .btn-danger {
