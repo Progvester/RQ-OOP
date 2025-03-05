@@ -1,6 +1,6 @@
 const config = {
   publicApiURL: 'https://quoteslate.vercel.app',
-  ownApiURL: 'http://localhost:3000',
+  ownApiURL: 'https://rq-oop.onrender.com',
 };
 
 export default config;
